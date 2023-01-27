@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-
+![banner](https://github.com/eugeneegbe/eugeneegbe/blob/main/Screenshot%202023-01-27%20at%2014.22.24.png)
 <br >
-
 ## Contact me
 
 <p align="center">
